@@ -48,3 +48,18 @@ body {
   0% { background-position: 0 0; }
   100% { background-position: 96px 0; }
 }
+
+/* Mobile responsiveness  */ 
+
+
+
+@media only screen and (max-width: 700px) {
+  body {
+    font-size: 14px;
+  }
+
+  body .radiogroup label {
+    min-width: 80px;
+    padding: 0.5em 1em;
+  }
+}

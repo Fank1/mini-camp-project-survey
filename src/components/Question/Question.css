@@ -17,6 +17,7 @@ button {
   box-shadow: 0 24px 24px 24px rgba(0, 0, 0, 0.3);
   transition: all 300ms;
   color: #3f1c4a;
+  -webkit-appearance: none;
 }
 
 button:hover{
