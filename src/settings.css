@@ -62,4 +62,9 @@ body {
     min-width: 80px;
     padding: 0.5em 1em;
   }
+
+  body .word {
+    font-size: 2em;
+  }
+
 }
